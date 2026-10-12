@@ -1,24 +1,64 @@
 {
   "firm": {
-    "name": "Korbey Lague PLLP",
-    "shortName": "Korbey Lague",
-    "tagline": "CPAs you can talk to",
-    "foundingYear": "1972"
+    "name": "TK Partners Certified Public Accountant",
+    "tagline": "Expert Accounting Services for Your Business",
+    "foundingYear": "Unknown"
   },
   "contact": {
-    "address": { "street": "123 Main St", "city": "Tyngsborough", "state": "MA", "zip": "01879" },
-    "phone": "978-555-0100",
-    "email": "info@korbeylague.com"
+    "address": {
+      "street": "5 W. Alder, Suite 215",
+      "city": "Walla Walla",
+      "state": "WA",
+      "zip": "99362"
+    },
+    "phone": "509 529-0941",
+    "email": "info@tkpartners.com"
   },
   "palette": {
-    "primary": "#003B71",
-    "secondary": "#6C7278",
-    "complementary": "#B8422E",
-    "action": "#00C1DE",
-    "nearBlack": "#1A1C1E",
-    "nearWhite": "#F7F5F2"
+    "primary": "#054c46",
+    "secondary": "#bab39a",
+    "complementary": "#cff0eb",
+    "action": "#81715e",
+    "nearBlack": "#101b19",
+    "nearWhite": "#f6fbfb"
   },
-  "social": [],
+  "social": [
+    {
+      "platform": "facebook",
+      "url": "https://www.facebook.com/thetkpartners/"
+    },
+    {
+      "platform": "instagram",
+      "url": "https://www.instagram.com/tkpartners_/"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/tkpartnerswa/posts/"
+    },
+    {
+      "platform": "youtube",
+      "url": "https://www.youtube.com/@t.k.partners"
+    },
+    {
+      "platform": "googleMaps",
+      "url": "https://maps.app.goo.gl/eRpVXVtga8S1391aA"
+    },
+    {
+      "platform": "googleMaps",
+      "url": "https://maps.app.goo.gl/m2oixQKLgKd8a9Hp8"
+    },
+    {
+      "platform": "googleMaps",
+      "url": "https://maps.google.com/?cid=10247273478247438646&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
+    },
+    {
+      "platform": "linkedin",
+      "url": "https://www.linkedin.com/company/tkpartnerswa"
+    }
+  ],
   "certifications": [],
-  "logo": { "primary": "", "alt": "Korbey Lague PLLP logo" }
+  "logo": {
+    "primary": "TK Partners.png",
+    "alt": "TK Partners Certified Public Accountant logo"
+  }
 }

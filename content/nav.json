@@ -1,9 +1,118 @@
 {
   "primary": [
-    { "label": "Services", "url": "/services" },
-    { "label": "Pricing Calculator", "url": "/pricing-calculator" },
-    { "label": "About", "url": "/about" },
-    { "label": "Resources", "url": "/resources" },
-    { "label": "Contact", "url": "/contact" }
-  ]
+    {
+      "label": "Services",
+      "url": "/services",
+      "children": [
+        {
+          "label": "What We Do",
+          "url": "/what-we-do"
+        },
+        {
+          "label": "Outsourced accounting services",
+          "url": "/what-we-do/outsourced-accounting"
+        },
+        {
+          "label": "Estates Trusts",
+          "url": "/what-we-do/estates-trusts"
+        },
+        {
+          "label": "Tailored tax prep and planning",
+          "url": "/what-we-do/income-tax"
+        },
+        {
+          "label": "Business foundation services",
+          "url": "/what-we-do/business-foundation-services"
+        }
+      ]
+    },
+    {
+      "label": "Who We Serve",
+      "url": "/who-we-serve"
+    },
+    {
+      "label": "Wineries",
+      "url": "/wineries"
+    },
+    {
+      "label": "Agriculture",
+      "url": "/agriculture"
+    },
+    {
+      "label": "Restaurant accounting services",
+      "url": "/restaurants"
+    },
+    {
+      "label": "Business accounting solutions",
+      "url": "/businesses"
+    },
+    {
+      "label": "Meet the TK Partners team",
+      "url": "/who-we-are",
+      "children": [
+        {
+          "label": "Careers at TK Partners",
+          "url": "/resources/careers",
+          "children": [
+            {
+              "label": "Application For Employment",
+              "url": "/application-for-employment"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Insights from our CPAs",
+      "url": "/insights-gallery",
+      "children": [
+        {
+          "label": "Insights category",
+          "url": "/category/insights"
+        },
+        {
+          "label": "Smart Tips articles",
+          "url": "/category/magazine-article"
+        },
+        {
+          "label": "QuickReads",
+          "url": "/resources-new/quickreads"
+        }
+      ]
+    },
+    {
+      "label": "Firm updates and announcements",
+      "url": "/updates-and-announcements"
+    },
+    {
+      "label": "Client resources",
+      "url": "/resources",
+      "children": [
+        {
+          "label": "Forms Documents Links",
+          "url": "/resources/forms-documents-links"
+        },
+        {
+          "label": "Track your tax refund status",
+          "url": "/resources/refund-tracker"
+        }
+      ]
+    },
+    {
+      "label": "Contact TK Partners",
+      "url": "/contact"
+    },
+    {
+      "label": "Privacy policy",
+      "url": "/privacy-policy"
+    },
+    {
+      "label": "Estate and trust tax",
+      "url": "/estate-trust-tax-administration"
+    }
+  ],
+  "cta": {
+    "label": "Schedule a consultation",
+    "url": "/contact"
+  }
 }
