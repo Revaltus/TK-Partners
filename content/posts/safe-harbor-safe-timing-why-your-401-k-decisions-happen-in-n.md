@@ -15,6 +15,7 @@ secondary_keywords: ["safe harbor 401(k) annual notice", "safe harbor 401(k) pla
 canonical_url: https://tkpartners.com/resources/safe-harbor-safe-timing-why-your-401-k-decisions-happen-in-n
 schema_markup: "FAQPage"
 answer_block: "For a calendar-year plan, the safe harbor 401(k) notice deadline is about December 1, which is 30 days before the plan year starts. Plans using a safe harbor match must send the notice, while plans using the 3% nonelective contribution no longer have to. November is when business owners should confirm their design, send notices, and decide whether to add a plan."
+faq_block: [{"question":"When is the safe harbor 401(k) notice deadline for a calendar-year plan?","answer":"For a plan that runs January 1 to December 31, the notice has to reach eligible employees 30 to 90 days before the plan year starts, which makes the deadline about December 1. The window opens in early October. Plans using the 3% nonelective no longer need the annual notice."},{"question":"Does a safe harbor plan remove nondiscrimination testing?","answer":"It removes the ADP test, and the ACP test too when the match is designed to qualify. Most safe harbor plans are also exempt from top-heavy minimums. You still file Form 5500, make deposits on time, and follow the plan document, so the plan is lighter on testing but not free of rules."},{"question":"Can I add a safe harbor design after the year has started?","answer":"Sometimes. The SECURE Act lets a plan adopt the nonelective design late, up to 30 days before year-end for a 3% contribution, or later in the following year at 4%. A match does not get the same flexibility. Ask your administrator before making a promise to employees."}]
 ---
 Most business owners spend September and October with their eyes on customers, orders, and payroll, not the plan document. Then the holiday rush arrives, December follows, and someone remembers that the 401(k) has a notice deadline. For a calendar-year plan that uses a safe harbor match, the deadline is December 1. Missing it can turn a plan that skips annual testing into one that has to pass it, and that is when owners learn their own deferrals may be capped or refunded.
 
@@ -152,3 +153,15 @@ It removes the ADP test, and the ACP test too when the match is designed to qual
 Sometimes. The SECURE Act lets a plan adopt the nonelective design late, up to 30 days before year-end for a 3% contribution, or later in the following year at 4%. A match does not get the same flexibility. Ask your administrator before making a promise to employees.
 
 If the December 1 date is close and you are not sure which design fits your business, [reach out to TK Partners](/contact). A CPA in Walla Walla or Moses Lake can look at your payroll, your plan document, and your tax picture with you, so the decision is made on time and with numbers you trust.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: When is the safe harbor 401(k) notice deadline for a calendar-year plan?**
+A: For a plan that runs January 1 to December 31, the notice has to reach eligible employees 30 to 90 days before the plan year starts, which makes the deadline about December 1. The window opens in early October. Plans using the 3% nonelective no longer need the annual notice.
+
+**Q: Does a safe harbor plan remove nondiscrimination testing?**
+A: It removes the ADP test, and the ACP test too when the match is designed to qualify. Most safe harbor plans are also exempt from top-heavy minimums. You still file Form 5500, make deposits on time, and follow the plan document, so the plan is lighter on testing but not free of rules.
+
+**Q: Can I add a safe harbor design after the year has started?**
+A: Sometimes. The SECURE Act lets a plan adopt the nonelective design late, up to 30 days before year-end for a 3% contribution, or later in the following year at 4%. A match does not get the same flexibility. Ask your administrator before making a promise to employees.
