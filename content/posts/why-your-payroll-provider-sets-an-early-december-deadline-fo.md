@@ -15,6 +15,7 @@ secondary_keywords: ["W-2 corrections before year end", "S-corp owner health ins
 canonical_url: https://tkpartners.com/resources/why-your-payroll-provider-sets-an-early-december-deadline-fo
 schema_markup: "FAQPage"
 answer_block: "Payroll providers set an early-December cutoff because W-2 and 1099 processing starts soon after, and changes submitted late can force corrected W-2cs and penalties. Winery owners should send bonuses, S-corp owner health insurance totals, company vehicle personal-use miles, and employee data updates before that date."
+faq_block: [{"question":"What happens if I miss my payroll provider's year-end deadline?","answer":"Your change may not reach the final payroll, so the error shows up on W-2s or 1099s. You would then file a corrected W-2c or amended return in January or later. Corrections cost time, and penalties for incorrect information returns increase the longer they stay uncorrected."},{"question":"Do S-corp owners really have to put health insurance on the W-2?","answer":"Yes, if you own more than 2 percent. The premiums the company pays are reported in Box 1 wages, generally without Social Security and Medicare tax. That reporting is what supports your self-employed health insurance deduction on your personal return. Leaving it off can cost you the deduction."},{"question":"Is using the company truck to commute taxable?","answer":"Yes. Commuting and other personal use of a company vehicle count as a taxable fringe benefit. The value, often figured per mile, is added to wages. Keep a mileage log through December and send payroll the personal-use total before the provider's cutoff."}]
 ---
 That email from your payroll provider lands right as harvest wraps up and the holiday tasting weekends begin. It says something like "year-end changes must be submitted by December 5," and it is easy to file under *later*. Please don't. The deadline is not there to make your life harder. It is there so your W-2s and 1099s come out right the first time, which means no corrections, no amended returns, and no January phone calls asking why your health insurance is on the wrong line.
 
@@ -111,3 +112,15 @@ Yes. Commuting and other personal use of a company vehicle count as a taxable fr
 ## Get your year-end payroll changes in early
 
 If your provider's deadline notice is sitting in your inbox, send us the details now: bonuses, owner health premiums, vehicle miles, and any employee changes. We will review them with you and help you submit clean numbers before the cutoff. [Contact TK Partners](/contact) to set up a quick year-end payroll review.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What happens if I miss my payroll provider's year-end deadline?**
+A: Your change may not reach the final payroll, so the error shows up on W-2s or 1099s. You would then file a corrected W-2c or amended return in January or later. Corrections cost time, and penalties for incorrect information returns increase the longer they stay uncorrected.
+
+**Q: Do S-corp owners really have to put health insurance on the W-2?**
+A: Yes, if you own more than 2 percent. The premiums the company pays are reported in Box 1 wages, generally without Social Security and Medicare tax. That reporting is what supports your self-employed health insurance deduction on your personal return. Leaving it off can cost you the deduction.
+
+**Q: Is using the company truck to commute taxable?**
+A: Yes. Commuting and other personal use of a company vehicle count as a taxable fringe benefit. The value, often figured per mile, is added to wages. Keep a mileage log through December and send payroll the personal-use total before the provider's cutoff.
