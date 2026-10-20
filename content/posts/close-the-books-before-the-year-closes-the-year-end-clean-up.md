@@ -15,6 +15,7 @@ secondary_keywords: ["reconcile bank accounts before tax season", "separate pers
 canonical_url: https://tkpartners.com/resources/close-the-books-before-the-year-closes-the-year-end-clean-up
 schema_markup: "FAQPage"
 answer_block: "A year-end bookkeeping checklist for taxes starts with reconciling every bank, card, loan, and payment-processor account, separating personal spending as owner draws, and recoding miscategorized transactions. Businesses that carry inventory should also count it near December 31 and tie it to the books. Clean books mean your CPA spends time reviewing instead of rebuilding, which lowers tax prep fees."
+faq_block: [{"question":"When should I start my year-end bookkeeping clean-up?","answer":"Start in early December, or November if you have a lot of accounts. Recoding, separating personal spending, and the inventory count all need to happen before December 31, while the final bank reconciliation waits for your December statements in early January."},{"question":"What records do I need to give my CPA for a business tax return?","answer":"Bring reconciled bank and card statements, loan statements, payroll reports, your Dec. 31 inventory count if you carry inventory, and sales tax and excise filings. The [IRS small business resources](https://www.irs.gov/businesses/small-businesses-self-employed) list what records support income and deductions."},{"question":"Can I fix last year's miscategorized transactions after the year ends?","answer":"Yes. Books can be corrected before the return is filed, and your CPA can amend a filed return if needed. It costs more, though. Fixing entries before filing means one pass through the return instead of two, so earlier is almost always cheaper."}]
 ---
 A familiar January scene at a busy business: the year was a good one, the holiday rush is over, and the books are three months behind. The CPA opens the file and finds a $14,000 "Uncategorized" account, a savings account nobody has reconciled since August, and a family grocery run coded to "Business supplies." None of this is unusual. It is also expensive, because every hour your preparer spends untangling the year is an hour on the clock.
 
@@ -124,3 +125,15 @@ Yes. Books can be corrected before the return is filed, and your CPA can amend a
 ## Start your year-end clean-up with a CPA in your corner
 
 If your books need a December reset, or you would rather never have another January scramble, the CPAs at TK Partners in Walla Walla can help you get there. [Reach out through our contact page](/contact) and we will talk through where your accounts stand and what a realistic clean-up looks like for your business.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: When should I start my year-end bookkeeping clean-up?**
+A: Start in early December, or November if you have a lot of accounts. Recoding, separating personal spending, and the inventory count all need to happen before December 31, while the final bank reconciliation waits for your December statements in early January.
+
+**Q: What records do I need to give my CPA for a business tax return?**
+A: Bring reconciled bank and card statements, loan statements, payroll reports, your Dec. 31 inventory count if you carry inventory, and sales tax and excise filings. The [IRS small business resources](https://www.irs.gov/businesses/small-businesses-self-employed) list what records support income and deductions.
+
+**Q: Can I fix last year's miscategorized transactions after the year ends?**
+A: Yes. Books can be corrected before the return is filed, and your CPA can amend a filed return if needed. It costs more, though. Fixing entries before filing means one pass through the return instead of two, so earlier is almost always cheaper.
