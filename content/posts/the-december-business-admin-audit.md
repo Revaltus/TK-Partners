@@ -15,6 +15,7 @@ secondary_keywords: ["business insurance renewal December", "renew business lice
 canonical_url: https://tkpartners.com/resources/the-december-business-admin-audit
 schema_markup: "FAQPage"
 answer_block: "A year-end business checklist should cover more than taxes. In December, review how your insurance values inventory and equipment, confirm every license and permit expiration date, check your annual state report month, and look at lease and vendor renewal terms before auto-renewals lock in. Most of these costs are deductible, so clear records help at tax time too."
+faq_block: [{"question":"When should a business review its insurance renewal in December?","answer":"Start at least 60 days before the renewal date, which for many policies means October or November. If you are already in December, call your agent this week. Ask how inventory, equipment, and business interruption are valued, because those answers change what a claim would pay."},{"question":"Does my annual state report come due at year-end?","answer":"Usually not. Washington's annual report for a corporation or LLC is generally due by the end of the month your entity was formed or registered. An LLC formed in June, for example, files by the end of June. Check the Secretary of State record for every entity you own."},{"question":"Are insurance premiums, lease payments, and license fees tax deductible?","answer":"Generally yes, when they are ordinary and necessary business expenses. The details depend on your accounting method and on items such as prepaid premiums or equipment leases. Keep the invoices and proof of payment together, and ask your CPA before prepaying anything to chase a deduction."}]
 ---
 Most business owners know exactly what they were doing in the fall: chasing deadlines, serving customers, and putting out fires. December is when the paperwork you set aside starts to speak up. A license renewal notice sits unopened in a stack. A lease is three weeks from rolling over for another year at a higher rent. The insurance renewal arrives with a premium that has quietly jumped.
 
@@ -124,3 +125,15 @@ Generally yes, when they are ordinary and necessary business expenses. The detai
 ## Start your December audit with a CPA in your corner
 
 You do not have to run this checklist alone. Send us your renewal dates, lease terms, and entity list, and we will help you sort what needs attention now, what can wait, and what ties back to your tax plan. [Reach out to TK Partners](/contact) and we will help you head into January with a clean calendar.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: When should a business review its insurance renewal in December?**
+A: Start at least 60 days before the renewal date, which for many policies means October or November. If you are already in December, call your agent this week. Ask how inventory, equipment, and business interruption are valued, because those answers change what a claim would pay.
+
+**Q: Does my annual state report come due at year-end?**
+A: Usually not. Washington's annual report for a corporation or LLC is generally due by the end of the month your entity was formed or registered. An LLC formed in June, for example, files by the end of June. Check the Secretary of State record for every entity you own.
+
+**Q: Are insurance premiums, lease payments, and license fees tax deductible?**
+A: Generally yes, when they are ordinary and necessary business expenses. The details depend on your accounting method and on items such as prepaid premiums or equipment leases. Keep the invoices and proof of payment together, and ask your CPA before prepaying anything to chase a deduction.
