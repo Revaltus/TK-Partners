@@ -105,7 +105,7 @@ If your payroll provider has an early-December deadline for bonuses or other yea
 
 An admin audit does not change the tax rules. It does change what you can prove and when you can act. A paid premium with a clear invoice is easy to deduct. A license fee paid late, with a penalty, is a cost you did not need to incur. A lease renewal you negotiated in December has a different cash flow effect than one you accepted in January.
 
-It also lets us give better advice. Our [outsourced accounting services](/services) include bookkeeping, payroll, and tax support, and the clearer your administrative picture, the more useful our year-round planning becomes. Your fixed monthly bookkeeping fee already covers keeping the numbers current, so there are no billing surprises when you send us a stack of renewal notices and ask what to do with them.
+It also lets us give better advice. Our outsourced accounting services include bookkeeping, payroll, and tax support, and the clearer your administrative picture, the more useful our year-round planning becomes. Your fixed monthly bookkeeping fee already covers keeping the numbers current, so there are no billing surprises when you send us a stack of renewal notices and ask what to do with them.
 
 ## Common Questions
 
