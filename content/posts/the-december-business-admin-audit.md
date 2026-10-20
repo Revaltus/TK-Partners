@@ -19,7 +19,7 @@ faq_block: [{"question":"When should a business review its insurance renewal in 
 ---
 Most business owners know exactly what they were doing in the fall: chasing deadlines, serving customers, and putting out fires. December is when the paperwork you set aside starts to speak up. A license renewal notice sits unopened in a stack. A lease is three weeks from rolling over for another year at a higher rent. The insurance renewal arrives with a premium that has quietly jumped.
 
-None of these are tax problems on their own. They become money problems when nobody looks at them until January. This is a year-end business checklist for owners in any industry, and it covers the administrative side that tax-only checklists skip. If you want the bookkeeping side, our [year-end bookkeeping checklist](/resources/close-the-books-before-the-year-closes-the-year-end-clean-up) pairs well with this one.
+None of these are tax problems on their own. They become money problems when nobody looks at them until January. This is a year-end business checklist for owners in any industry, and it covers the administrative side that tax-only checklists skip.
 
 ## Why December is the easiest month to fix admin problems
 
