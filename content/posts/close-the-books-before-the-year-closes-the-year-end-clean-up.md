@@ -100,7 +100,7 @@ Nobody wants a big project in the weeks after the busy season. Spread it out.
 | Last week | Physical inventory count (if you carry inventory); flag open purchase decisions for your CPA |
 | First week of January | Reconcile December statements and send the package through the secure portal |
 
-This is also the window for tax moves that only work before year-end. Erin Denney, CPA, our Tax Manager, works with owner-operators on entity structure and multi-year tax strategy, and that planning only works when the books agree with the bank. Clean numbers in December make a conversation about equipment timing or retirement contributions concrete instead of speculative.
+This is also the window for tax moves that only work before year-end. Clean numbers in December make a conversation about equipment timing or retirement contributions concrete instead of speculative.
 
 ## What the clean-up saves
 
