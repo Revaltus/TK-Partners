@@ -1,7 +1,7 @@
 ---
 title: "Repairs vs capital improvements: how business owners decide what to deduct now"
 slug: understanding-the-difference-between-repairs-and-capital-imp
-date: 2026-10-21
+date: 2027-01-01
 content_type: article
 author: "Kristal Hassler, CPA"
 excerpt: "A roof patch is a deduction, a roof replacement is an asset. Here is how business owners apply the IRS tangible property rules, safe harbors, and Section 179 to keep more cash."
