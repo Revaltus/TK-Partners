@@ -15,6 +15,7 @@ secondary_keywords: ["capitalize vs expense", "tangible property regulations", "
 canonical_url: https://tkpartners.com/resources/understanding-the-difference-between-repairs-and-capital-imp
 schema_markup: "FAQPage"
 answer_block: "A repair keeps property in its current working condition and is deducted immediately, while a capital improvement betters, adapts, or restores property and is capitalized and depreciated. The IRS tangible property regulations use the betterment, adaptation, and restoration tests, plus the de minimis, routine maintenance, and small taxpayer safe harbors, to draw the line. Capitalized costs can still often be deducted quickly through Section 179 or bonus depreciation."
+faq_block: [{"question":"Is a roof repair deductible, or do I have to capitalize it?","answer":"A localized fix, such as patching a leak or replacing a few shingles, is generally a deductible repair. Replacing the entire roof is usually a restoration that you capitalize. Even then, Section 179 can often let you deduct a nonresidential roof replacement in the year you place it in service."},{"question":"What is the de minimis safe harbor election?","answer":"It is an annual election that lets you deduct items costing $2,500 or less per invoice or per item, or $5,000 if you have audited financial statements. You make it by attaching a statement to a timely filed return, including extensions. It applies to every qualifying purchase for the year, so you cannot choose item by item."},{"question":"Can I deduct a repair and also take Section 179 on the same cost?","answer":"No. A cost is either deducted as a repair or capitalized, and only capitalized property is eligible for Section 179 or bonus depreciation. You first decide whether the cost is a repair, and if it is not, you then decide whether to expense it through Section 179 or depreciate it."},{"question":"What happens if I classified a project incorrectly in a prior year?","answer":"You can usually correct it with an accounting method change on Form 3115, which takes the adjustment into the current year instead of requiring several amended returns. The details depend on the facts, so have a CPA review the asset schedule and the original treatment first."},{"question":"How do I know whether my building work is a repair or an improvement?","answer":"Ask whether the work keeps the property in its current condition (a repair) or betters it, adapts it to a new use, or restores it by replacing a major component (an improvement). Safe harbors can settle many smaller invoices, and good documentation of the scope of work protects whichever treatment you choose."}]
 ---
 Picture a business owner in September. The main cooling unit at your location quit during your busiest season, the replacement and install came to $14,000, and the invoice is sitting on the desk with one question attached: is this a deduction this year, or an asset that gets written off slowly over decades? The answer changes the tax bill by thousands of dollars, and the IRS rules that decide it are more detailed than most people expect.
 
@@ -205,3 +206,21 @@ You can usually correct it with an accounting method change on Form 3115, which 
 ## Get a second set of eyes before the next big invoice
 
 If you have a project coming up, a fixed asset schedule you have not looked at in years, or a stack of invoices you are unsure how to code, we are happy to walk through it with you. TK Partners, formerly TKCPA, reviews safe harbor elections, partial dispositions, and Section 179 timing for business owners across Eastern Washington, with a secure digital process and year-round advice rather than a once-a-year conversation. [Reach out to our team](/contact) and we will help you decide what to deduct now and what to depreciate, before the tax return makes the decision for you.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: Is a roof repair deductible, or do I have to capitalize it?**
+A: A localized fix, such as patching a leak or replacing a few shingles, is generally a deductible repair. Replacing the entire roof is usually a restoration that you capitalize. Even then, Section 179 can often let you deduct a nonresidential roof replacement in the year you place it in service.
+
+**Q: What is the de minimis safe harbor election?**
+A: It is an annual election that lets you deduct items costing $2,500 or less per invoice or per item, or $5,000 if you have audited financial statements. You make it by attaching a statement to a timely filed return, including extensions. It applies to every qualifying purchase for the year, so you cannot choose item by item.
+
+**Q: Can I deduct a repair and also take Section 179 on the same cost?**
+A: No. A cost is either deducted as a repair or capitalized, and only capitalized property is eligible for Section 179 or bonus depreciation. You first decide whether the cost is a repair, and if it is not, you then decide whether to expense it through Section 179 or depreciate it.
+
+**Q: What happens if I classified a project incorrectly in a prior year?**
+A: You can usually correct it with an accounting method change on Form 3115, which takes the adjustment into the current year instead of requiring several amended returns. The details depend on the facts, so have a CPA review the asset schedule and the original treatment first.
+
+**Q: How do I know whether my building work is a repair or an improvement?**
+A: Ask whether the work keeps the property in its current condition (a repair) or betters it, adapts it to a new use, or restores it by replacing a major component (an improvement). Safe harbors can settle many smaller invoices, and good documentation of the scope of work protects whichever treatment you choose.
