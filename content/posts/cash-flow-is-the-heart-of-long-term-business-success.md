@@ -4,12 +4,12 @@ slug: cash-flow-is-the-heart-of-long-term-business-success
 date: 2026-10-22
 content_type: blog
 author: "Kristal Hassler, CPA"
-excerpt: "A business can show a profit and still run short on cash. Here is how owners can map cash circulation, find the clots, and schedule regular financial checkups."
+excerpt: "A business can show a profit and still run short on cash. Here is how owners can map cash circulation, find the blockages, and schedule regular financial checkups."
 image: winery-owner-reviewing-cash-flow-barrel-room.jpg
 image_alt: "Business owner reviewing financial reports at a desk"
 tags: ["cash flow", "business owners", "tax planning", "forecasting"]
 meta_title: "Cash Flow Management for Business Owners | TK Partners"
-meta_description: "Cash flow management for business owners: map your cash circulation, spot clots in inventory, receivables, and taxes, and schedule regular financial checkups."
+meta_description: "Cash flow management for business owners: map your cash circulation, spot blockages in inventory, receivables, and taxes, and schedule regular financial checkups."
 target_keyword: "cash flow management for business owners"
 secondary_keywords: ["cash flow problems", "improve business cash flow", "cash flow forecasting", "business tax planning", "13-week cash forecast"]
 canonical_url: https://tkpartners.com/resources/cash-flow-is-the-heart-of-long-term-business-success
@@ -19,7 +19,7 @@ faq_block: [{"question":"How much cash reserve should a business keep?","answer"
 ---
 A business can post a profit and still miss a payroll. It happens more often than owners expect, and it usually looks the same: a strong quarter of sales is on the books, customer invoices are 60 days out, and a federal estimated tax payment lands the same week as a big supplier bill. The income statement says you are healthy. The bank balance says otherwise.
 
-That gap is why we like to talk about cash the way a doctor talks about circulation. Profit is the photograph of your business. Cash flow is the pulse. This post walks through how to map where your cash moves, how to find the clots that slow it down, and how to schedule regular checkups before something becomes an emergency.
+That gap is why we like to talk about cash the way a doctor talks about circulation. Profit is the photograph of your business. Cash flow is the pulse. This post walks through how to map where your cash moves, how to find the blockages that slow it down, and how to schedule regular checkups before something becomes an emergency.
 
 ## Profit is the photograph, cash is the pulse
 
@@ -53,25 +53,25 @@ The point is timing. A simple month-by-month view shows when the heart is workin
 
 Your own calendar will look different, and that is the point. Once you can see your pattern, the picture stays current instead of getting rebuilt every year.
 
-## Find the clots in receivables, inventory, and taxes
+## Find the blockages in receivables, inventory, and taxes
 
 Circulation problems rarely come from one dramatic event. They come from a slow buildup in a few predictable places. Here are the four we look for first.
 
 ### Slow receivables
 
-Unpaid customer invoices are the most common clot. A customer that pays in 60 days instead of 30 is, in effect, borrowing from you at no interest. If you invoice $40,000 a month and the average payment takes 60 days, about $80,000 of your money is sitting in someone else's account at any given time.
+Unpaid customer invoices are the most common blockage. A customer that pays in 60 days instead of 30 is, in effect, borrowing from you at no interest. If you invoice $40,000 a month and the average payment takes 60 days, about $80,000 of your money is sitting in someone else's account at any given time.
 
 Track the age of every open invoice. Anything past 45 days deserves a phone call, not another reminder email. Also check how quickly your payment processor pays out, because holds and chargebacks can quietly delay those deposits too.
 
 ### Inventory that ties up too much cash
 
-For businesses that carry stock, inventory is often the biggest and most legitimate clot. Some of it is unavoidable. But there is a difference between inventory you are holding on purpose and inventory that is sitting because purchasing outran sales.
+For businesses that carry stock, inventory is often the biggest and most legitimate blockage. Some of it is unavoidable. But there is a difference between inventory you are holding on purpose and inventory that is sitting because purchasing outran sales.
 
 Look at cost per unit and months of supply on hand for each product line. If an item is sitting at 14 months of supply, that is cash you could have spent elsewhere. Also watch bulk orders. Supplies bought for a volume discount can cost you more in tied-up cash than the discount saves.
 
 ### Tax bills that arrive on someone else's schedule
 
-The tax clot is the one that hurts most because it is the least flexible. Owners of pass-through businesses owe federal estimated payments on set dates throughout the year, and the [IRS small business resources](https://www.irs.gov/businesses/small-businesses-self-employed) outline how those quarterly payments work. Add sales tax, payroll tax, and any industry-specific taxes, and your tax calendar is busy even before April.
+The tax blockage is the one that hurts most because it is the least flexible. Owners of pass-through businesses owe federal estimated payments on set dates throughout the year, and the [IRS small business resources](https://www.irs.gov/businesses/small-businesses-self-employed) outline how those quarterly payments work. Add sales tax, payroll tax, and any industry-specific taxes, and your tax calendar is busy even before April.
 
 The fix is not complicated. It just has to happen before the deadline. Project your taxable income each quarter, set aside the estimated amount in a separate account as sales come in, and decide on equipment purchases or retirement contributions before December, not after. Tax planning for owner-operators, including entity structure and multi-year strategy, is the day-to-day work of Tax Manager Erin Denney, CPA, and our [tax planning and preparation](/what-we-do/income-tax) is built to run all year rather than only in filing season.
 
