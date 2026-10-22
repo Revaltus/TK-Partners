@@ -1,5 +1,5 @@
 ---
-title: "It's Not You, It's Your Margins: How to Fire Unprofitable Customers and Renegotiate Vendor Contracts at Your Winery"
+title: "It's Not You, It's Your Margins: How to break up with clients and end vendor contracts"
 slug: its-not-you-its-your-margins-how-to-break-up-with-unprofitab
 date: 2026-10-22
 content_type: blog
