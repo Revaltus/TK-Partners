@@ -15,6 +15,7 @@ secondary_keywords: ["renegotiate vendor contracts", "customer profitability ana
 canonical_url: https://tkpartners.com/resources/its-not-you-its-your-margins-how-to-break-up-with-unprofitab
 schema_markup: "FAQPage"
 answer_block: "To fire an unprofitable customer, first calculate what the account really costs you: cost of goods, delivery, discounts, chargebacks and staff time. If its margin stays below your threshold (for example, 15% for two quarters), try repricing or tighter terms, then give written notice and exit politely if that fails. Apply the same math to vendors, and renegotiate or terminate when the overpayment exceeds the cost of leaving."
+faq_block: [{"question":"How do I know if a customer is unprofitable?","answer":"Subtract the cost of goods, delivery, discounts, chargebacks and staff time from what the account pays you. If the remainder is below about 15% of revenue for two quarters, or negative, the account is costing you money. Late payment makes the picture worse, so track days-to-pay alongside margin."},{"question":"Should I raise prices or drop the customer?","answer":"Raise prices or tighten terms first, with 30 to 60 days' written notice. If the account accepts, you keep a profitable customer. If it leaves, you've lost an account that wasn't paying its way. Drop it outright only when repricing won't fix the margin or the payment behavior."},{"question":"Can I deduct money a customer never paid me?","answer":"Only in some cases. Accrual-method businesses that already recorded the sale as income can often deduct a worthless invoice as bad debt. Cash-method businesses generally can't, since the income was never counted. Keep records of invoices, reminders and any collection attempts."}]
 ---
 February is a natural time to prune, which makes it a good month to do the same thing to your books. Most business owners can name their best-selling product or service without thinking. Far fewer can name their least profitable account: the client who haggles on every invoice, the buyer who pays on day 80, the relationship that quietly costs more to service than it brings in. Valentine's Day is a fair excuse for a reality check. Keep the relationships that love your bottom line back, renegotiate the ones that drain it, and end the ones that never will.
 
@@ -129,3 +130,15 @@ Only in some cases. Accrual-method businesses that already recorded the sale as 
 ## Start with one honest afternoon
 
 You don't need to overhaul everything this week. Pull your top ten accounts and your top ten vendors, run the cost-to-serve math, and see who deserves the roses. If you'd like a CPA in your corner for that conversation, [reach out to TK Partners](/contact) at our Walla Walla or Moses Lake office. We'll help you read the numbers in plain language and plan the next move with confidence.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: How do I know if a customer is unprofitable?**
+A: Subtract the cost of goods, delivery, discounts, chargebacks and staff time from what the account pays you. If the remainder is below about 15% of revenue for two quarters, or negative, the account is costing you money. Late payment makes the picture worse, so track days-to-pay alongside margin.
+
+**Q: Should I raise prices or drop the customer?**
+A: Raise prices or tighten terms first, with 30 to 60 days' written notice. If the account accepts, you keep a profitable customer. If it leaves, you've lost an account that wasn't paying its way. Drop it outright only when repricing won't fix the margin or the payment behavior.
+
+**Q: Can I deduct money a customer never paid me?**
+A: Only in some cases. Accrual-method businesses that already recorded the sale as income can often deduct a worthless invoice as bad debt. Cash-method businesses generally can't, since the income was never counted. Keep records of invoices, reminders and any collection attempts.
