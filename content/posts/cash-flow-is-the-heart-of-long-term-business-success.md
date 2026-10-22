@@ -114,13 +114,13 @@ Add an annual review in a quieter month to check costs, pricing, and your borrow
 
 ## Common Questions
 
-**How much cash reserve should a winery keep?**
+**How much cash reserve should a business keep?**
 
-A common target is three months of fixed costs, including payroll, loan payments, rent or mortgage, and insurance. Wineries with large harvest outlays or heavy wholesale exposure often need more. Your 13-week forecast shows the low point of the year, and your reserve should cover that number with room to spare.
+A common target is three months of fixed costs, including payroll, loan payments, rent or mortgage, and insurance. Businesses with seasonal swings or large upfront purchases often need more. Your 13-week forecast shows the low point of the year, and your reserve should cover that number with room to spare.
 
-**Can a profitable winery still have cash flow problems?**
+**Can a profitable business still have cash flow problems?**
 
-Yes, and it is common. Profit counts revenue and costs when they are earned, while cash counts when money moves. Inventory aging in barrel, wholesale invoices that pay in 60 days, loan principal, and estimated taxes all drain cash without reducing profit, so a profitable winery can run short.
+Yes, and it is common. Profit counts revenue and costs when they are earned, while cash counts when money moves. Inventory purchases, customer invoices that pay in 60 days, loan principal, and estimated taxes all drain cash without reducing profit, so a profitable business can run short.
 
 **What is a 13-week cash flow forecast?**
 
