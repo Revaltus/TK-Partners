@@ -15,6 +15,7 @@ secondary_keywords: ["cash flow problems", "improve business cash flow", "cash f
 canonical_url: https://tkpartners.com/resources/cash-flow-is-the-heart-of-long-term-business-success
 schema_markup: "FAQPage"
 answer_block: "A profitable business can still run short on cash because inventory, slow customer payments, loan principal, and estimated taxes use cash without reducing profit. Map how cash moves through the year, watch receivables, inventory, and tax obligations for buildup, and review monthly numbers, a 13-week forecast, and quarterly tax projections to catch shortfalls early."
+faq_block: [{"question":"How much cash reserve should a business keep?","answer":"A common target is three months of fixed costs, including payroll, loan payments, rent or mortgage, and insurance. Businesses with seasonal swings or large upfront purchases often need more. Your 13-week forecast shows the low point of the year, and your reserve should cover that number with room to spare."},{"question":"Can a profitable business still have cash flow problems?","answer":"Yes, and it is common. Profit counts revenue and costs when they are earned, while cash counts when money moves. Inventory purchases, customer invoices that pay in 60 days, loan principal, and estimated taxes all drain cash without reducing profit, so a profitable business can run short."},{"question":"What is a 13-week cash flow forecast?","answer":"It is a weekly projection of the cash you expect to receive and pay over the next quarter. You list known bills and expected deposits by week, then update it with actuals. Its value is early warning. You see a shortfall in week seven while you still have six weeks to fix it."}]
 ---
 A business can post a profit and still miss a payroll. It happens more often than owners expect, and it usually looks the same: a strong quarter of sales is on the books, customer invoices are 60 days out, and a federal estimated tax payment lands the same week as a big supplier bill. The income statement says you are healthy. The bank balance says otherwise.
 
@@ -128,3 +129,15 @@ It is a weekly projection of the cash you expect to receive and pay over the nex
 ## Start with one honest look at your cash
 
 You do not need to fix everything at once. Start by sketching your cash loop on a single page, then bring it to a conversation with a CPA who will walk through it with you in plain language. TK Partners works with business owners from our offices in Walla Walla and Moses Lake, with a fixed monthly fee for bookkeeping, a secure digital tax process, and year-round advisory support. When you are ready to set up your first checkup, [get in touch with our team](/contact) and we will help you read the vital signs.
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: How much cash reserve should a business keep?**
+A: A common target is three months of fixed costs, including payroll, loan payments, rent or mortgage, and insurance. Businesses with seasonal swings or large upfront purchases often need more. Your 13-week forecast shows the low point of the year, and your reserve should cover that number with room to spare.
+
+**Q: Can a profitable business still have cash flow problems?**
+A: Yes, and it is common. Profit counts revenue and costs when they are earned, while cash counts when money moves. Inventory purchases, customer invoices that pay in 60 days, loan principal, and estimated taxes all drain cash without reducing profit, so a profitable business can run short.
+
+**Q: What is a 13-week cash flow forecast?**
+A: It is a weekly projection of the cash you expect to receive and pay over the next quarter. You list known bills and expected deposits by week, then update it with actuals. Its value is early warning. You see a shortfall in week seven while you still have six weeks to fix it.
